@@ -7,7 +7,7 @@ The workflow includes data preprocessing, exploratory data analysis, model train
 - Exploratory Data Analysis (EDA)
 - Data preprocessing and feature scaling
 - Random undersampling to address class imbalance
-- Logistic Regression and Decision Tree classification models
+- Logistic Regression and Random Forest models
 
 ## Performance evaluation using:
 - Accuracy
