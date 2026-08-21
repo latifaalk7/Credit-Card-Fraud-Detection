@@ -1,22 +1,23 @@
 # Credit-Card-Fraud-Detection
-This project applies supervised machine learning techniques to detect fraudulent credit card transactions. Due to the highly imbalanced nature of the dataset, the project compares model performance before and after applying random undersampling.
+
+Applied supervised machine learning techniques to detect fraudulent credit card transactions. Due to the highly imbalanced nature of the dataset, this project compares model performance before and after applying random undersampling.
 
 The workflow includes data preprocessing, exploratory data analysis, model training, performance evaluation, and a comparison of results using multiple classification metrics:
 
-<img width="570" height="151" alt="Screenshot 2026-08-19 at 1 21 27 AM" src="https://github.com/user-attachments/assets/2a98e310-f33a-474c-a5a4-7f3178ec7c01" />
+<img width="855" height="226" alt="Screenshot 2026-08-19 at 1 21 27 AM" src="https://github.com/user-attachments/assets/2a98e310-f33a-474c-a5a4-7f3178ec7c01" />
 
 
 ## Features
 - Exploratory Data Analysis (EDA)
+
 - Data preprocessing and feature scaling
+
 - Random undersampling to address class imbalance
+
 - Logistic Regression and Random Forest models
 
 ## Performance evaluation using:
-- Accuracy
-- Precision
-- Recall
-- F1-score
+- Accuracy, Precision, Recall, F1-score
 - Confusion Matrix
 - Precision-Recall Curve
 
